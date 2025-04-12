@@ -32,7 +32,7 @@
 }
 
 .avatar {
-  background-image: url("../images/letterboxd-mac-icon.png");
+  background-image: url("./images/letterboxd-mac-icon.png");
   background-size: cover;
   height: 25px;
   width: 25px;
